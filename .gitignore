@@ -1,0 +1,21 @@
+# Arquivos e diretórios específicos do PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Byte-compiled / compilações
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração
+*.bak
+Thumbs.db
+.DS_Store
+
+# Arquivos de registro e saída
+*.log
+*.log.*
+db.sqlite3
