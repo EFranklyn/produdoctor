@@ -37,7 +37,7 @@ source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
 
 
 endpoints
-  api/v1/suppliers/
-  api/v1/categories/
-  api/v1/products/
-  api/v1/products-catalog/
+  - api/v1/suppliers/
+  - api/v1/categories/
+  - api/v1/products/
+  - api/v1/products-catalog/
